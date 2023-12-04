@@ -1,0 +1,27 @@
+﻿{
+    "@type": "distribution",
+    "identifier": "9e51ed2f-3a48-189d-999e-14736a0f30f2",
+    "title": "Belgian medical laboratories and their services accredited by National Institute for Health and Disability Insurance (20200113)",
+    "description": "This data describe the Belgian medical laboratories and the services that are accredited by the National Institute for Health and Disability Insurance,",
+    "publisher": "National Institute for Health and Disability Insurance",
+    "downloadURL": "https://github.com/healthfacts/distributions_nidhi_hco_laboratories/blob/main/nidhi_hco_laboratories_20200113_en.csv",
+    "accessURL": "https://github.com/healthfacts/distributions_nidhi_hco_laboratories/blob/main/nidhi_hco_laboratories_20200113_en.csv",
+    "mediaType": "text/csv",
+    "format": "csv",
+    "byteSize": 34518,
+    "modificationDate": "2023-11-22 13:27:35",
+    "status": "completed",
+    "language": "en",
+    "availability": "stable",
+    "license": "CC_BY_4_0",
+    "documentation": "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/laboratoria; https://www.inami.fgov.be/fr/professionnels/etablissements-et-services-de-soins/laboratoires",
+    "keyword": [],
+    "dataset": {
+        "@type": "dataset",
+        "identifier": "06bcf97e-2958-484e-83ce-53e9bba0a318",
+        "title": "Medical laboratories and their services accredited by National Institute for Health and Disability Insurance",
+        "landingPage": "https://www.riziv.fgov.be/nl/professionals/verzorgingsinstellingen-en-diensten/laboratoria; https://www.inami.fgov.be/fr/professionnels/etablissements-et-services-de-soins/laboratoires",
+        "contactPoint": "National Institute for Health and Disability Insurance, Directorate of Care Institutions and Services, Galileelaan 5/01, 1210 Brussels, Belgium",
+        "contactPointEmail": "hospit@riziv-inami.fgov.be"
+    }
+}
